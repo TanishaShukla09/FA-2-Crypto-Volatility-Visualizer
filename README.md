@@ -82,12 +82,6 @@ The project is deployed using Streamlit Cloud.
 
 ### Live Application Link
 
-Add your deployed Streamlit link here.
+https://cryptovolatilityvisualizer.streamlit.app/
 
 ---
-
-## Learning Outcome
-
-This project connects mathematics with real-world financial behaviour.
-
-By interacting with the dashboard, users can visually understand volatility, risk levels, and long-term trends in cryptocurrency markets.
